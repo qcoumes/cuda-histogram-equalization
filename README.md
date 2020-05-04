@@ -23,7 +23,7 @@ Compilation was tested with :
 
 * `nvcc >= 10.2.89`
 * `g++ >= 7.5.0`
-* `clang 7.0.1`
+* `clang >= 7.0.1`
 
 ### Usage
 
